@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\bin\StudentProfile.dll
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\bin\StudentProfile.pdb
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\obj\Debug\StudentProfile.dll
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\obj\Debug\StudentProfile.pdb
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\bin\StudentProfile.DAL.dll
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\bin\StudentProfile.DAL.pdb
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile\obj\Debug\StudentProfile.csprojResolveAssemblyReference.cache

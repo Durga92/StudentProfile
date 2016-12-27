@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile.DAL\bin\StudentProfile.DAL.dll
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile.DAL\bin\StudentProfile.DAL.pdb
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile.DAL\obj\Debug\StudentProfile.DAL.dll
+C:\Users\Admin\Desktop\Code\StudentProfile\StudentProfile.DAL\obj\Debug\StudentProfile.DAL.pdb
